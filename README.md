@@ -51,6 +51,6 @@ Future<void> doPayment() async {
 ```
 
 ## Contact
-Email: vaibhavpathak9984@gmail.com
-Github: @vkpdeveloper
-Telegram: @vkpdeveloper
+* Email: vaibhavpathak9984@gmail.com
+* Github: @vkpdeveloper
+* Telegram: @vkpdeveloper
